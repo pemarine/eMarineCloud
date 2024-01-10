@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 import {ThemeProvider} from "@aws-amplify/ui-react";
 import { Amplify } from 'aws-amplify';
-import amplifyconfig from './amplifyconfiguration.json';
+import awsconfig from './amplifyconfiguration.json';
 import "@aws-amplify/ui-react/styles.css";
 import studioTheme from './ui-components/studioTheme';
 Amplify.configure(awsconfig);
