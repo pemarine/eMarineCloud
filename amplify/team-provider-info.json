@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify426a3874f21d4-staging-132404-authRole",
+      "UnauthRoleArn": "arn:aws:iam::002095041041:role/amplify-amplify426a3874f21d4-staging-132404-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::002095041041:role/amplify-amplify426a3874f21d4-staging-132404-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-amplify426a3874f21d4-staging-132404-deployment",
+      "UnauthRoleName": "amplify-amplify426a3874f21d4-staging-132404-unauthRole",
+      "StackName": "amplify-amplify426a3874f21d4-staging-132404",
+      "StackId": "arn:aws:cloudformation:eu-north-1:002095041041:stack/amplify-amplify426a3874f21d4-staging-132404/86dfe7b0-afbb-11ee-b32b-0eb298765df2",
+      "AmplifyAppId": "d2d2lpj4ijxlw3"
+    },
+    "categories": {
+      "auth": {
+        "eMarineCloud": {}
+      }
+    }
+  }
+}
